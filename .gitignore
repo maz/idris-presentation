@@ -1,0 +1,6 @@
+*.ibc
+*.o
+helloworld
+
+a.out
+*~
